@@ -1,0 +1,98 @@
+﻿[
+    {
+        "nombreImg": "PRODUCTO1.webp",
+        "altImg": "Laptop HP",
+        "producto": "Laptop HP Victus 15-fb0101la AMD Ryzen 5 Serie 5000 8GB RAM 512GB SSD W11 - 6F7G3LA",
+        "preDescuento": "S/ 2,787",
+        "preOriginal": "S/ 4,099",
+        "porcentajeDesc": "32 "
+    },
+    {
+        "nombreImg": "PRODUCTO2.webp",
+        "altImg": "Laptop Lenovo",
+        "producto": "Laptop Lenovo Yoga 9 2-en-1 Core i7-1185G7 11va GENERACION 16GB RAM, 1TB SSD 14″ UHD Táctil",
+        "preDescuento": "S/ 4,319",
+        "preOriginal": "S/ 7,999",
+        "porcentajeDesc": "46 "
+    },
+    {
+        "nombreImg": "PRODUCTO3.webp",
+        "altImg": "Laptop Acer",
+        "producto": "Laptop Gamer Acer Intel Core I5 11400H 8GB RAM 512GB SSD VIDEO 4GB 15.6 FULL HD IPS 144HZ NITRO",
+        "preDescuento": "S/ 2,988",
+        "preOriginal": "S/ 3,179",
+        "porcentajeDesc": "6 "
+    },
+    {
+        "nombreImg": "PRODUCTO4.webp",
+        "altImg": "Laptop Asus",
+        "producto": "Laptop Asus Intel Core i5 16GB RAM 512GB SSD + 1TB HDD 15.6 FHD IPS",
+        "preDescuento": "S/ 3,899",
+        "preOriginal": "S/ 4,999",
+        "porcentajeDesc": "22 "
+    },
+    {
+        "nombreImg": "PRODUCTO5.webp",
+        "altImg": "Monitor Lenovo",
+        "producto": "Monitor Lenovo ThinkCentre Tiny-In-One 24 Gen4, 23.8\" IPS, DP, USB (UpstreamPort), Cámara",
+        "preDescuento": "S/ 1,899",
+        "preOriginal": "S/ 2,200",
+        "porcentajeDesc": "14 "
+    },
+    {
+        "nombreImg": "PRODUCTO6.webp",
+        "altImg": "Monitor Teros",
+        "producto": "Monitor Teros gamer curvo 24 te-3131 full hd ips hdmi 75hz",
+        "preDescuento": "S/ 379",
+        "preOriginal": "S/ 949",
+        "porcentajeDesc": "60 "
+    },
+    {
+        "nombreImg": "PRODUCTO7.webp",
+        "altImg": "Monito Samsung",
+        "producto": "Monitor Samsung LS27ag320NLXPE 27 FHD IPS 165HZ 1MS FRESYNG",
+        "preDescuento": "S/ 980",
+        "preOriginal": "S/ 2,200",
+        "porcentajeDesc": "55 "
+    },
+    {
+        "nombreImg": "PRODUCTO8.webp",
+        "altImg": "Monitor Teros",
+        "producto": "Monitor Teros TE-3198N 32 Curvo 75HZ IPS 2560X1440 QHD HDMI Displayport Freesync",
+        "preDescuento": "S/ 930",
+        "preOriginal": "S/ 1,040",
+        "porcentajeDesc": "11 "
+    },
+    {
+        "nombreImg": "PRODUCTO9.webp",
+        "altImg": "Audifonos Gamer",
+        "producto": "Audifonos Gamer Buypal Bluetooth Inalambricos Tactil Handsfree",
+        "preDescuento": "S/ 49.99",
+        "preOriginal": "S/ 131",
+        "porcentajeDesc": "62 "
+    },
+    {
+        "nombreImg": "PRODUCTO10.webp",
+        "altImg": "Parlante Gamer",
+        "producto": "Parlante Gamer Cybertel 2.1 para PC RGB S302 Cybertel",
+        "preDescuento": "S/ 110.00",
+        "preOriginal": "S/ 220",
+        "porcentajeDesc": "50 "
+    },
+    {
+        "nombreImg": "PRODUCTO11.webp",
+        "altImg": "Audifono Gamer",
+        "producto": "Audífono Gamer Seisa Con Micrófono y luces LED para PC Laptop PS4 XBOX AZUL",
+        "preDescuento": "S/ 49.90",
+        "preOriginal": "S/ 60",
+        "porcentajeDesc": "17 "
+    },
+    {
+        "nombreImg": "PRODUCTO12.webp",
+        "altImg": "Kit",
+        "producto": "Kit Gamer 4 en 1 CC GROUP: Teclado + Mouse + Audífonos + Pad",
+        "preDescuento": "S/ 73.99",
+        "preOriginal": "S/ 99.99",
+        "porcentajeDesc": "26 "
+    }
+]
